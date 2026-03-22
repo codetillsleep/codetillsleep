@@ -1,18 +1,18 @@
 <h1 align="center"> Hey there, I'm <strong>Saksham Sharma</strong></h1>
-<h3 align="center"> Full-Stack Developer | Next.js | Node.js | MongoDB | TailwindCSS</h3>
+<h3 align="center"> Full-Stack Developer | Next.js | Node.js | MongoDB </h3>
 
 ---
 
-### 🙋‍♂️ About Me
-- 🚀 Currently working on **something exciting** — stay tuned!  
-- 🌱 Exploring **Containerization, AWS, and Microservices**  
-- 🧠 I love building **scalable, fast, and intuitive web apps**  
-- 📫 Reach me at: **saksham1864@gmail.com**   
-- 💼 LinkedIn: [linkedin.com/in/saksham1864](https://linkedin.com/in/saksham1864)
+###  About Me
+- Currently working on **something exciting** — stay tuned!  
+- Exploring **Containerization, AWS, and Microservices**  
+- I love building **scalable, fast, and intuitive web apps**  
+- Reach me at: **saksham1864@gmail.com**   
+- LinkedIn: [linkedin.com/in/saksham1864](https://linkedin.com/in/saksham1864)
 
 ---
 
-### ⚙️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 **Frontend:**  
 React.js · Next.js · Framer Motion · TailwindCSS · HTML · CSS · SCSS
@@ -31,22 +31,22 @@ DSA · OOP · Database Design · API Integration · OS & Networking Basics
 
 ---
 
-### 🧩 Featured Projects
+###  Featured Projects
 
-#### 🎓 [10gpa.in](https://10gpa.in) — *Smart Academic Resource Platform*  
+####  [10gpa.in](https://10gpa.in) — *Smart Academic Resource Platform*  
 > **Stack:** Next.js · TypeScript · Node.js · MongoDB · TailwindCSS  
 > • Built a full-stack platform for students to access syllabus, labs, and study resources.  
 > • Designed REST APIs for real-time data and optimized database caching.  
 > • Improved load time by **70%** and enhanced accessibility.  
 
-#### 🧮 [Nexus](https://github.com/sleeptillash/Nexus) — *Real-Time Chat Application*  
+####  [Nexus](https://github.com/sleeptillash/Nexus) — *Real-Time Chat Application*  
 > **Stack:** React · Node.js · Express · Socket.io · MongoDB Atlas  
 > • Built a real-time chat system with one-to-one & group conversations  
 > • Integrated secure JWT authentication & RESTful APIs
 
 ---
 
-### 🛠️ Languages & Tools I Work With
+###  Languages & Tools I Work With
 
 <p align="center">
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/></a>
