@@ -1,10 +1,9 @@
 <h1 align="center"> Hey there, I'm <strong>Saksham Sharma</strong></h1>
-<h3 align="center"> Full-Stack Developer | Next.js | Node.js | MongoDB </h3>
-
 
 ###  About Me
 - Currently working on **something exciting** — stay tuned!  
-- Exploring **Containerization, AWS, and Microservices**  
+- Skilled with **Next.js, Node.js, Containerization, AWS, and Microservices etc**
+- Currently Exploring **Backend Architecture Sesign**
 - I love building **scalable, fast, and intuitive web apps**  
 - Reach me at: **saksham1864@gmail.com**   
 - LinkedIn: [linkedin.com/in/saksham1864](https://linkedin.com/in/saksham1864)
