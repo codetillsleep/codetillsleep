@@ -1,7 +1,6 @@
 <h1 align="center"> Hey there, I'm <strong>Saksham Sharma</strong></h1>
 <h3 align="center"> Full-Stack Developer | Next.js | Node.js | MongoDB </h3>
 
----
 
 ###  About Me
 - Currently working on **something exciting** — stay tuned!  
