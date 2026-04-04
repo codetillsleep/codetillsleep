@@ -3,7 +3,7 @@
 ###  About Me
 - Currently working on **something exciting** — stay tuned!  
 - Skilled with **Next.js, Node.js, Containerization, AWS, and Microservices etc**
-- Currently Exploring **Backend Architecture Sesign**
+- Currently Exploring **Backend Architecture Design**
 - I love building **scalable, fast, and intuitive web apps**  
 - Reach me at: **saksham1864@gmail.com**   
 - LinkedIn: [linkedin.com/in/saksham1864](https://linkedin.com/in/saksham1864)
