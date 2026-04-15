@@ -13,7 +13,7 @@
 ###  Tech Stack & Skills
 
 **Frontend:**  
-React.js · Next.js · Framer Motion · TailwindCSS · HTML · CSS · SCSS
+React.js · Next.js · Framer Motion · TailwindCSS · CSS 
 
 **Backend:**  
 Node.js · Express.js · MongoDB · JWT · OAuth · REST API Design  
