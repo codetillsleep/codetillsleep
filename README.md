@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there, I'm <strong>Saksham Sharma</strong></h1>
 
 ###  About Me
-- Currently working on **something exciting** — stay tuned!  
+- Currently working on **something exciting** 
 - Skilled with **Next.js, Node.js, Containerization, AWS, and Microservices etc**
 - Currently Exploring **Backend Architecture Design**
 - I love building **scalable, fast, and intuitive web apps**  
