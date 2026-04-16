@@ -35,7 +35,8 @@ DSA · OOP · Database Design · API Integration · OS & Networking Basics
 > **Stack:** Next.js · TypeScript · Node.js · MongoDB · TailwindCSS  
 > • Built a full-stack platform for students to access syllabus, labs, and study resources.  
 > • Designed REST APIs for real-time data and optimized database caching.  
-> • Improved load time by **70%** and enhanced accessibility.  
+> • Improved load time by **70%** and enhanced accessibility.
+
 
 ####  [Nexus](https://github.com/sleeptillash/Nexus) — *Real-Time Chat Application*  
 > **Stack:** React · Node.js · Express · Socket.io · MongoDB Atlas  
