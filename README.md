@@ -37,7 +37,6 @@ DSA · OOP · Database Design · API Integration · OS & Networking Basics
 > • Designed REST APIs for real-time data and optimized database caching.  
 > • Improved load time by **70%** and enhanced accessibility.
 
-
 ####  [Nexus](https://github.com/sleeptillash/Nexus) — *Real-Time Chat Application*  
 > **Stack:** React · Node.js · Express · Socket.io · MongoDB Atlas  
 > • Built a real-time chat system with one-to-one & group conversations  
