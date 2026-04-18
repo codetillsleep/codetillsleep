@@ -33,7 +33,7 @@ DSA · OOP · Database Design · API Integration · OS & Networking Basics
 
 ####  [10gpa.in](https://10gpa.in) — *Smart Academic Resource Platform*  
 > **Stack:** Next.js · TypeScript · Node.js · MongoDB · TailwindCSS  
-> • Built a full-stack platform for students to access syllabus, labs, and study resources.  
+> • Built a full-stack platform for students to access syllabus, and study resources easily.  
 > • Designed REST APIs for real-time data and optimized database caching.  
 > • Improved load time by **70%** and enhanced accessibility.
 
