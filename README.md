@@ -29,6 +29,7 @@ DSA · OOP · Database Design · API Integration · OS & Networking Basics
 
 ---
 
+
 ###  Featured Projects
 
 ####  [10gpa.in](https://10gpa.in) — *Smart Academic Resource Platform*  
