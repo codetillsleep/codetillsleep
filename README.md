@@ -12,6 +12,12 @@
 
 ###  Tech Stack & Skills
 
+
+
+
+
+
+
 **Frontend:**  
 React.js · Next.js · Framer Motion · TailwindCSS · CSS 
 
