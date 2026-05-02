@@ -12,12 +12,6 @@
 
 ###  Tech Stack & Skills
 
-
-
-
-
-
-
 **Frontend:**  
 React.js · Next.js · Framer Motion · TailwindCSS · CSS 
 
@@ -48,5 +42,10 @@ DSA · OOP · Database Design · API Integration · OS & Networking Basics
 > **Stack:** React · Node.js · Express · Socket.io · MongoDB Atlas  
 > • Built a real-time chat system with one-to-one & group conversations  
 > • Integrated secure JWT authentication & RESTful APIs
+
+
+
+
+
 
 ---
