@@ -43,9 +43,4 @@ DSA · OOP · Database Design · API Integration · OS & Networking Basics
 > • Built a real-time chat system with one-to-one & group conversations  
 > • Integrated secure JWT authentication & RESTful APIs
 
-
-
-
-
-
 ---
