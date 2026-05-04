@@ -25,7 +25,7 @@ JavaScript · TypeScript · Python · C/C++
 Docker · Kubernetes · AWS · Git · CI/CD · Jest · Postman
 
 **Core Concepts:**  
-DSA · OOP · Database Design · API Integration · OS & Networking Basics 
+DSA · OOP · Database Design · API Integration 
 
 ---
 
