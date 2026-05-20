@@ -22,7 +22,7 @@ Node.js · Express.js · MongoDB · JWT · OAuth · REST API Design
 JavaScript · TypeScript · Python · C/C++  
 
 **DevOps / Tools:**  
-Docker · Kubernetes · AWS · Git · CI/CD · Jest · Postman
+Docker · Kubernetes · AWS · Git · CI/CD · Postman
 
 **Core Concepts:**  
 DSA · OOP · Database Design · API Integration 
