@@ -29,7 +29,6 @@ DSA · OOP · Database Design · API Integration
 
 ---
 
-
 ###  Featured Projects
 
 ####  [10gpa.in](https://10gpa.in) — *Smart Academic Resource Platform*  
